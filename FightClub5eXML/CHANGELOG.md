@@ -1,5 +1,9 @@
 ## CHANGE LOG
 
+### 2022-05-16
+
+Added a basic rulebook and supplements.
+
 ### 2021-08-04
 
 Removed deployment to Dropbox.
