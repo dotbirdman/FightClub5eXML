@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <collection>
-    <!-- Core Rulebooks -->
+    <!-- Player's Handbook -->
     <doc href="../FightClub5eXML/Sources/PlayersHandbook/backgrounds-phb.xml" />
     <doc href="../FightClub5eXML/Sources/PlayersHandbook/bestiary-phb.xml" />
     <doc href="../FightClub5eXML/Sources/PlayersHandbook/class-barbarian-phb.xml" />
@@ -21,21 +21,13 @@
     <doc href="../FightClub5eXML/Sources/PlayersHandbook/optionalfeatures-phb.xml" />
     <doc href="../FightClub5eXML/Sources/PlayersHandbook/races-phb.xml" />
     <doc href="../FightClub5eXML/Sources/PlayersHandbook/spells-phb.xml" />
-
+    <!-- Dungeon Master's Guide -->
     <doc href="../FightClub5eXML/Sources/DungeonMastersGuide/bestiary-dmg.xml" />
-    <doc href="../FightClub5eXML/Sources/DungeonMastersGuide/class-cleric-dmg.xml" />
-    <doc href="../FightClub5eXML/Sources/DungeonMastersGuide/class-paladin-dmg.xml" />
     <doc href="../FightClub5eXML/Sources/DungeonMastersGuide/items-dmg.xml" />
-    <doc href="../FightClub5eXML/Sources/DungeonMastersGuide/races-dmg.xml" />
-    <doc href="../FightClub5eXML/Sources/DungeonMastersGuide/spells-phb+dmg.xml" />
-
+    <!-- Monster Manual -->
     <doc href="../FightClub5eXML/Sources/MonsterManual/bestiary-mm.xml" />
     <doc href="../FightClub5eXML/Sources/MonsterManual/items-mm.xml" />
-
-
-    <!-- Supplements -->
-    <doc href="../FightClub5eXML/Sources/PrincesOfTheApocalypse/races-eepc.xml" />
-
+    <!-- Xanathar's Guide to Everything -->
     <doc href="../FightClub5eXML/Sources/XanatharsGuideToEverything/bestiary-xge.xml" />
     <doc href="../FightClub5eXML/Sources/XanatharsGuideToEverything/class-barbarian-xge.xml" />
     <doc href="../FightClub5eXML/Sources/XanatharsGuideToEverything/class-bard-xge.xml" />
@@ -54,33 +46,7 @@
     <doc href="../FightClub5eXML/Sources/XanatharsGuideToEverything/optionalfeatures-xge.xml" />
     <doc href="../FightClub5eXML/Sources/XanatharsGuideToEverything/spells-phb+xge.xml" />
     <doc href="../FightClub5eXML/Sources/XanatharsGuideToEverything/spells-xge.xml" />
-
-
-    <doc href="../FightClub5eXML/Sources/MordenkainensTomeOfFoes/bestiary-mtf.xml" />
-    <doc href="../FightClub5eXML/Sources/MordenkainensTomeOfFoes/feats-mtf.xml" />
-    <doc href="../FightClub5eXML/Sources/MordenkainensTomeOfFoes/items-mtf.xml" />
-    <doc href="../FightClub5eXML/Sources/MordenkainensTomeOfFoes/races-mtf.xml" />
-    <doc href="../FightClub5eXML/Sources/MordenkainensTomeOfFoes/vehicles-mtf.xml" />
-
-
-    <doc href="../FightClub5eXML/Sources/VolosGuideToMonsters/bestiary-vgm.xml" />
-    <doc href="../FightClub5eXML/Sources/VolosGuideToMonsters/items-vgm.xml" />
-    <doc href="../FightClub5eXML/Sources/VolosGuideToMonsters/races-vgm.xml" />
-
-
-    <doc href="../FightClub5eXML/Sources/ExplorersGuideToWildemount/backgrounds-egw.xml" />
-    <doc href="../FightClub5eXML/Sources/ExplorersGuideToWildemount/bestiary-egw.xml" />
-    <doc href="../FightClub5eXML/Sources/ExplorersGuideToWildemount/class-fighter-egw.xml" />
-    <doc href="../FightClub5eXML/Sources/ExplorersGuideToWildemount/class-wizard-egw.xml" />
-    <doc href="../FightClub5eXML/Sources/ExplorersGuideToWildemount/items-egw.xml" />
-    <doc href="../FightClub5eXML/Sources/ExplorersGuideToWildemount/races-egw.xml" />
-    <doc href="../FightClub5eXML/Sources/ExplorersGuideToWildemount/spells-egw.xml" />
-    <doc href="../FightClub5eXML/Sources/ExplorersGuideToWildemount/vehicles-dd.xml" />
-
-
-    <doc href="../FightClub5eXML/Sources/MordenkainensFiendishFolio/bestiary-mff.xml" />
-
-
+    <!-- Tasha's Cauldron of Everything -->
     <doc href="../FightClub5eXML/Sources/TashasCauldronOfEverything/bestiary-tce.xml" />
     <doc href="../FightClub5eXML/Sources/TashasCauldronOfEverything/class-artificer-tce.xml" />
     <doc href="../FightClub5eXML/Sources/TashasCauldronOfEverything/class-barbarian-tce.xml" />
@@ -101,4 +67,5 @@
     <doc href="../FightClub5eXML/Sources/TashasCauldronOfEverything/spells-tce.xml" />
     <doc href="../FightClub5eXML/Sources/TashasCauldronOfEverything/spells-phb+tce.xml" />
     <doc href="../FightClub5eXML/Sources/TashasCauldronOfEverything/races-tce.xml" />
+    <!-- Mordenkainen Presents: Monsters of the Multiverse -->
 </collection>
