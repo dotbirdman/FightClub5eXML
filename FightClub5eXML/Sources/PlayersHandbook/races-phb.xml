@@ -25,25 +25,25 @@
         </trait>
         <trait>
             <name>Draconic Ancestry</name>
-            <text>You have draconic ancestry. Choose one type of dragon from the Draconic Ancestry table. Your breath weapon and damage resistance are determined by the dragon type, as shown in the table.</text>
-            <text />
-            <text>Dragon | Damage Type | Breath Weapon</text>
-            <text>Black | Acid | 5 by 30 ft. line (Dex. save)</text>
-            <text>Blue | Lightning | 5 by 30 ft. line (Dex. save)</text>
-            <text>Brass | Fire | 5 by 30 ft. line (Dex. save)</text>
-            <text>Bronze | Lightning | 5 by 30 ft. line (Dex. save)</text>
-            <text>Copper | Acid | 5 by 30 ft. line (Dex. save)</text>
-            <text>Gold | Fire | 15 ft. cone (Dex. save)</text>
-            <text>Green | Poison | 15 ft. cone (Con. save)</text>
-            <text>Red | Fire | 15 ft. cone (Dex. save)</text>
-            <text>Silver | Cold | 15 ft. cone (Con. save)</text>
-            <text>White | Cold | 15 ft. cone (Con. save)</text>
+            <text>You have draconic ancestry. Choose one type of dragon from the Draconic Ancestry table. Your breath weapon and damage resistance are determined by the dragon type, as shown in the table.
+
+Dragon | Damage Type | Breath Weapon
+Black | Acid | 5 by 30 ft. line (Dex. save)
+Blue | Lightning | 5 by 30 ft. line (Dex. save)
+Brass | Fire | 5 by 30 ft. line (Dex. save)
+Bronze | Lightning | 5 by 30 ft. line (Dex. save)
+Copper | Acid | 5 by 30 ft. line (Dex. save)
+Gold | Fire | 15 ft. cone (Dex. save)
+Green | Poison | 15 ft. cone (Con. save)
+Red | Fire | 15 ft. cone (Dex. save)
+Silver | Cold | 15 ft. cone (Con. save)
+White | Cold | 15 ft. cone (Con. save)</text>
         </trait>
         <trait>
             <name>Breath Weapon</name>
-            <text>You can use your action to exhale destructive energy. Your draconic ancestry determines the size, shape, and damage type of the exhalation.</text>
-            <text>    When you use your breath weapon, each creature in the area of the exhalation must make a saving throw, the type of which is determined by your draconic ancestry. The DC for this saving throw equals 8 + your Constitution modifier + your proficiency bonus. A creature takes 2d6 damage on a failed save, and half as much damage on a successful one. The damage increases to 3d6 at 6th level, 4d6 at 11th level, and 5d6 at 16th level.</text>
-            <text>    After you use your breath weapon, you can't use it again until you complete a short or long rest.</text>
+            <text>You can use your action to exhale destructive energy. Your draconic ancestry determines the size, shape, and damage type of the exhalation.
+    When you use your breath weapon, each creature in the area of the exhalation must make a saving throw, the type of which is determined by your draconic ancestry. The DC for this saving throw equals 8 + your Constitution modifier + your proficiency bonus. A creature takes 2d6 damage on a failed save, and half as much damage on a successful one. The damage increases to 3d6 at 6th level, 4d6 at 11th level, and 5d6 at 16th level.
+    After you use your breath weapon, you can't use it again until you complete a short or long rest.</text>
         </trait>
         <trait>
             <name>Damage Resistance</name>
@@ -215,8 +215,8 @@
         </trait>
         <trait>
             <name>Trance</name>
-            <text>Elves don't need to sleep. Instead, they meditate deeply, remaining semiconscious, for 4 hours a day. (The Common word for such meditation is "trance.") While meditating, you can dream after a fashion; such dreams are actually mental exercises that have become reflexive through years of practice. After resting in this way, you gain the same benefit that a human does from 8 hours of sleep.</text>
-            <text>    If you meditate during a long rest, you finish the rest after only 4 hours. You otherwise obey all the rules for a long rest; only the duration is changed.</text>
+            <text>Elves don't need to sleep. Instead, they meditate deeply, remaining semiconscious, for 4 hours a day. (The Common word for such meditation is "trance.") While meditating, you can dream after a fashion; such dreams are actually mental exercises that have become reflexive through years of practice. After resting in this way, you gain the same benefit that a human does from 8 hours of sleep.
+    If you meditate during a long rest, you finish the rest after only 4 hours. You otherwise obey all the rules for a long rest; only the duration is changed.</text>
         </trait>
         <trait>
             <name>Languages</name>
@@ -272,8 +272,8 @@
         </trait>
         <trait>
             <name>Trance</name>
-            <text>Elves don't need to sleep. Instead, they meditate deeply, remaining semiconscious, for 4 hours a day. (The Common word for such meditation is "trance.") While meditating, you can dream after a fashion; such dreams are actually mental exercises that have become reflexive through years of practice. After resting in this way, you gain the same benefit that a human does from 8 hours of sleep.</text>
-            <text>    If you meditate during a long rest, you finish the rest after only 4 hours. You otherwise obey all the rules for a long rest; only the duration is changed.</text>
+            <text>Elves don't need to sleep. Instead, they meditate deeply, remaining semiconscious, for 4 hours a day. (The Common word for such meditation is "trance.") While meditating, you can dream after a fashion; such dreams are actually mental exercises that have become reflexive through years of practice. After resting in this way, you gain the same benefit that a human does from 8 hours of sleep.
+    If you meditate during a long rest, you finish the rest after only 4 hours. You otherwise obey all the rules for a long rest; only the duration is changed.</text>
         </trait>
         <trait>
             <name>Languages</name>
@@ -329,8 +329,8 @@
         </trait>
         <trait>
             <name>Trance</name>
-            <text>Elves don't need to sleep. Instead, they meditate deeply, remaining semiconscious, for 4 hours a day. (The Common word for such meditation is "trance.") While meditating, you can dream after a fashion; such dreams are actually mental exercises that have become reflexive through years of practice. After resting in this way, you gain the same benefit that a human does from 8 hours of sleep.</text>
-            <text>    If you meditate during a long rest, you finish the rest after only 4 hours. You otherwise obey all the rules for a long rest; only the duration is changed.</text>
+            <text>Elves don't need to sleep. Instead, they meditate deeply, remaining semiconscious, for 4 hours a day. (The Common word for such meditation is "trance.") While meditating, you can dream after a fashion; such dreams are actually mental exercises that have become reflexive through years of practice. After resting in this way, you gain the same benefit that a human does from 8 hours of sleep.
+    If you meditate during a long rest, you finish the rest after only 4 hours. You otherwise obey all the rules for a long rest; only the duration is changed.</text>
         </trait>
         <trait>
             <name>Languages</name>
@@ -398,17 +398,14 @@
         </trait>
         <trait>
             <name>Tinker</name>
-            <text>You have proficiency with artisan's tools (tinker's tools). Using those tools, you can spend 1 hour and 10 gp worth of materials to construct a Tiny clockwork device (AC 5, 1 hp). The device ceases to function after 24 hours (unless you spend 1 hour repairing it to keep the device functioning), or when you use your action to dismantle it; at that time, you can reclaim the materials used to create it. You can have up to three such devices active at a time.</text>
-            <text>    When you create a device, choose one of the following options:</text>
-            <text />
-            <text>Clockwork Toy</text>
-            <text>This toy is a clockwork animal, monster, or person, such as a frog, mouse, bird, dragon, or soldier. When placed on the ground, the toy moves 5 feet across the ground on each of your turns in a random direction. It makes noises as appropriate to the creature it represents.</text>
-            <text />
-            <text>Fire Starter</text>
-            <text>The device produces a miniature flame, which you can use to light a candle, torch, or campfire. Using the device requires your action.</text>
-            <text />
-            <text>Music Box</text>
-            <text>When opened, this music box plays a single song at a moderate volume. The box stops playing when it reaches the song's end or when it is closed.</text>
+            <text>You have proficiency with artisan's tools (tinker's tools). Using those tools, you can spend 1 hour and 10 gp worth of materials to construct a Tiny clockwork device (AC 5, 1 hp). The device ceases to function after 24 hours (unless you spend 1 hour repairing it to keep the device functioning), or when you use your action to dismantle it; at that time, you can reclaim the materials used to create it. You can have up to three such devices active at a time.
+    When you create a device, choose one of the following options:
+
+Clockwork Toy: This toy is a clockwork animal, monster, or person, such as a frog, mouse, bird, dragon, or soldier. When placed on the ground, the toy moves 5 feet across the ground on each of your turns in a random direction. It makes noises as appropriate to the creature it represents.
+
+Fire Starter: The device produces a miniature flame, which you can use to light a candle, torch, or campfire. Using the device requires your action.
+
+Music Box: When opened, this music box plays a single song at a moderate volume. The box stops playing when it reaches the song's end or when it is closed.</text>
         </trait>
         <trait>
             <name>Age</name>
