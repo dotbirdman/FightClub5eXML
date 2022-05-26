@@ -33,7 +33,7 @@ You begin play with the following equipment, in addition to any equipment provid
 
 Alternatively, you may start with 5d4 x 10 gp and choose your own equipment.
 
-Source: Player's Handbook p. 36</text>
+                    Source: Player's Handbook p. 56                </text>
             </feature>
             <feature optional="YES">
                 <name>Multiclass Cleric</name>
@@ -47,31 +47,34 @@ You gain the following proficiencies:
 • Weapons: none
 • Tools: none
 
-Source: Player's Handbook p. 36</text>
+                    Source: Player's Handbook p. 56                </text>
             </feature>
             <feature>
                 <name>Spellcasting</name>
                 <text>As a conduit for divine power, you can cast cleric spells. See chapter 10 for the general rules of spellcasting and chapter 11 for a selection of cleric spells.
 
 Cantrips:
-   At 1st level, you know three cantrips of your choice from the cleric spell list. You learn additional cleric cantrips of your choice at higher levels, as shown in the Cantrips Known column of the Cleric table.
+    At 1st level, you know three cantrips of your choice from the cleric spell list. You learn additional cleric cantrips of your choice at higher levels, as shown in the Cantrips Known column of the Cleric table.
 
 Preparing and Casting Spells:
-   The Cleric table shows how many spell slots you have to cast your cleric spells of 1st level and higher. To cast one of these spells, you must expend a slot of the spell's level or higher. You regain all expended spell slots when you finish a long rest.
-   You prepare the list of cleric spells that are available for you to cast, choosing from the cleric spell list. When you do so, choose a number of cleric spells equal to your Wisdom modifier + your cleric level (minimum of one spell). The spells must be of a level for which you have spell slots.
-   For example, if you are a 3rd-level cleric, you have four 1st-level and two 2nd-level spell slots. With a Wisdom of 16, your list of prepared spells can include six spells of 1st or 2nd level, in any combination. If you prepare the 1st-level spell cure wounds, you can cast it using a 1st-level or 2nd-level slot. Casting the spell doesn't remove it from your list of prepared spells.
-   You can change your list of prepared spells when you finish a long rest. Preparing a new list of cleric spells requires time spent in prayer and meditation: at least 1 minute per spell level for each spell on your list.
+    The Cleric table shows how many spell slots you have to cast your cleric spells of 1st level and higher. To cast one of these spells, you must expend a slot of the spell's level or higher. You regain all expended spell slots when you finish a long rest.
+    You prepare the list of cleric spells that are available for you to cast, choosing from the cleric spell list. When you do so, choose a number of cleric spells equal to your Wisdom modifier + your cleric level (minimum of one spell). The spells must be of a level for which you have spell slots.
+    For example, if you are a 3rd-level cleric, you have four 1st-level and two 2nd-level spell slots. With a Wisdom of 16, your list of prepared spells can include six spells of 1st or 2nd level, in any combination. If you prepare the 1st-level spell cure wounds, you can cast it using a 1st-level or 2nd-level slot. Casting the spell doesn't remove it from your list of prepared spells.
+    You can change your list of prepared spells when you finish a long rest. Preparing a new list of cleric spells requires time spent in prayer and meditation: at least 1 minute per spell level for each spell on your list.
 
 Spellcasting Ability:
-   Wisdom is your spellcasting ability for your cleric spells. The power of your spells comes from your devotion to your deity. You use your Wisdom whenever a cleric spell refers to your spellcasting ability. In addition, you use your Wisdom modifier when setting the saving throw DC for a cleric spell you cast and when making an attack roll with one.
+    Wisdom is your spellcasting ability for your cleric spells. The power of your spells comes from your devotion to your deity. You use your Wisdom whenever a cleric spell refers to your spellcasting ability. In addition, you use your Wisdom modifier when setting the saving throw DC for a cleric spell you cast and when making an attack roll with one.
+
+    Spell save DC = 8 + your proficiency bonus + your Wisdom modifier
+    Spell attack modifier = your proficiency bonus + your Wisdom modifier
 
 Ritual Casting:
-   You can cast a cleric spell as a ritual if that spell has the ritual tag and you have the spell prepared.
+    You can cast a cleric spell as a ritual if that spell has the ritual tag and you have the spell prepared.
 
 Spellcasting Focus:
-   You can use a holy symbol as a spellcasting focus for your cleric spells.
+    You can use a holy symbol as a spellcasting focus for your cleric spells.
 
-Source: Player's Handbook p. 36</text>
+                    Source: Player's Handbook p. 56                </text>
             </feature>
             <feature>
                 <name>Divine Domain</name>
@@ -81,7 +84,7 @@ Domain Spells:
    Each domain has a list of spells—its domain spells—that you gain at the cleric levels noted in the domain description. Once you gain a domain spell, you always have it prepared, and it doesn't count against the number of spells you can prepare each day.
    If you have a domain spell that doesn't appear on the cleric spell list, the spell is nonetheless a cleric spell for you.
 
-Source: Player's Handbook p. 36</text>
+                    Source: Player's Handbook p. 56                </text>
             </feature>
             <feature optional="YES">
                 <name>Divine Domain: Knowledge Domain</name>
@@ -278,13 +281,13 @@ Source: Player's Handbook p. 63</text>
     Some Channel Divinity effects require saving throws. When you use such an effect from this class, the DC equals your cleric spell save DC.
     Beginning at 6th level, you can use your Channel Divinity twice between rests, and beginning at 18th level, you can use it three times between rests. When you finish a short or long rest, you regain your expended uses.
 
-Source: Player's Handbook p. 36</text>
+                    Source: Player's Handbook p. 56                </text>
             </feature>
             <feature>
                 <name>Divine Domain feature</name>
                 <text>At 2nd level, you gain a feature from your Divine Domain.
 
-Source: Player's Handbook p. 36</text>
+                    Source: Player's Handbook p. 56                </text>
             </feature>
             <feature optional="YES">
                 <name>Knowledge Domain: Channel Divinity - Knowledge of the Ages</name>
@@ -345,7 +348,7 @@ Source: Player's Handbook p. 63</text>
                 <text>When you reach 4th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
     If your DM allows the use of feats, you may instead take a feat.
 
-Source: Player's Handbook p. 36</text>
+                    Source: Player's Handbook p. 56                </text>
             </feature>
         </autolevel>
         <autolevel level="5">
@@ -354,7 +357,7 @@ Source: Player's Handbook p. 36</text>
                 <name>Destroy Undead (CR 1/2)</name>
                 <text>Starting at 5th level, when an undead of CR 1/2 or lower fails its saving throw against your Turn Undead feature, the creature is instantly destroyed.
 
-Source: Player's Handbook p. 36</text>
+                    Source: Player's Handbook p. 56                </text>
             </feature>
         </autolevel>
         <autolevel level="6">
@@ -368,13 +371,13 @@ Source: Player's Handbook p. 36</text>
                 <name>Channel Divinity (2/rest)</name>
                 <text>Beginning at 6th level, you can use your Channel Divinity twice between rests.
 
-Source: Player's Handbook p. 36</text>
+                    Source: Player's Handbook p. 56                </text>
             </feature>
             <feature>
                 <name>Divine Domain feature</name>
                 <text>At 6th level, you gain a feature from your Divine Domain.
 
-Source: Player's Handbook p. 36</text>
+                    Source: Player's Handbook p. 56                </text>
             </feature>
             <feature optional="YES">
                 <name>Knowledge Domain: Channel Divinity: Read Thoughts</name>
@@ -433,19 +436,19 @@ Source: Player's Handbook p. 63</text>
                 <text>When you reach 8th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
     If your DM allows the use of feats, you may instead take a feat.
 
-Source: Player's Handbook p. 36</text>
+                    Source: Player's Handbook p. 56                </text>
             </feature>
             <feature>
                 <name>Destroy Undead (CR 1)</name>
                 <text>Starting at 8th level, when an undead of CR 1 or lower fails its saving throw against your Turn Undead feature, the creature is instantly destroyed.
 
-Source: Player's Handbook p. 36</text>
+                    Source: Player's Handbook p. 56                </text>
             </feature>
             <feature>
                 <name>Divine Domain feature</name>
                 <text>At 8th level, you gain a feature from your Divine Domain.
 
-Source: Player's Handbook p. 36</text>
+                    Source: Player's Handbook p. 56                </text>
             </feature>
             <feature optional="YES">
                 <name>Knowledge Domain: Potent Spellcasting</name>
@@ -502,7 +505,7 @@ Source: Player's Handbook p. 63</text>
     Imploring your deity's aid requires you to use your action. Describe the assistance you seek, and roll percentile dice. If you roll a number equal to or lower than your cleric level, your deity intervenes. The DM chooses the nature of the intervention; the effect of any cleric spell or cleric domain spell would be appropriate. If your deity intervenes, you can't use this feature again for 7 days. Otherwise, you can use it again after you finish a long rest.
     At 20th level, your call for intervention succeeds automatically, no roll required.
 
-Source: Player's Handbook p. 36</text>
+                    Source: Player's Handbook p. 56                </text>
             </feature>
         </autolevel>
         <autolevel level="11">
@@ -511,7 +514,7 @@ Source: Player's Handbook p. 36</text>
                 <name>Destroy Undead (CR 2)</name>
                 <text>Starting at 11th level, when an undead of CR 2 or lower or lower fails its saving throw against your Turn Undead feature, the creature is instantly destroyed.
 
-Source: Player's Handbook p. 36</text>
+                    Source: Player's Handbook p. 56                </text>
             </feature>
         </autolevel>
         <autolevel level="12" scoreImprovement="YES">
@@ -521,7 +524,7 @@ Source: Player's Handbook p. 36</text>
                 <text>When you reach 12th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
     If your DM allows the use of feats, you may instead take a feat.
 
-Source: Player's Handbook p. 36</text>
+                    Source: Player's Handbook p. 56                </text>
             </feature>
         </autolevel>
         <autolevel level="13">
@@ -533,7 +536,7 @@ Source: Player's Handbook p. 36</text>
                 <name>Destroy Undead (CR 3)</name>
                 <text>Starting at 14th level, when an undead of CR 3 or lower fails its saving throw against your Turn Undead feature, the creature is instantly destroyed.
 
-Source: Player's Handbook p. 36</text>
+                    Source: Player's Handbook p. 56                </text>
             </feature>
         </autolevel>
         <autolevel level="15">
@@ -546,7 +549,7 @@ Source: Player's Handbook p. 36</text>
                 <text>When you reach 16th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
 If your DM allows the use of feats, you may instead take a feat.
 
-Source: Player's Handbook p. 36</text>
+                    Source: Player's Handbook p. 56                </text>
             </feature>
         </autolevel>
         <autolevel level="17">
@@ -555,13 +558,13 @@ Source: Player's Handbook p. 36</text>
                 <name>Destroy Undead (CR 4)</name>
                 <text>Starting at 17th level, when an undead of CR 4 or lower fails its saving throw against your Turn Undead feature, the creature is instantly destroyed.
 
-Source: Player's Handbook p. 36</text>
+                    Source: Player's Handbook p. 56                </text>
             </feature>
             <feature>
                 <name>Divine Domain feature</name>
                 <text>At 17th level, you gain a feature from your Divine Domain.
 
-Source: Player's Handbook p. 36</text>
+                    Source: Player's Handbook p. 56                </text>
             </feature>
             <feature optional="YES">
                 <name>Knowledge Domain: Visions of the Past</name>
@@ -622,7 +625,7 @@ Source: Player's Handbook p. 63</text>
                 <name>Channel Divinity (3/rest)</name>
                 <text>Beginning at 18th level, you can use your Channel Divinity three times between rests.
 
-Source: Player's Handbook p. 36</text>
+                    Source: Player's Handbook p. 56                </text>
             </feature>
         </autolevel>
         <autolevel level="19" scoreImprovement="YES">
@@ -632,7 +635,7 @@ Source: Player's Handbook p. 36</text>
                 <text>When you reach 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
     If your DM allows the use of feats, you may instead take a feat.
 
-Source: Player's Handbook p. 36</text>
+                    Source: Player's Handbook p. 56                </text>
             </feature>
         </autolevel>
         <autolevel level="20">
@@ -641,7 +644,7 @@ Source: Player's Handbook p. 36</text>
                 <name>Divine Intervention Improvement</name>
                 <text>At 20th level, your call for intervention succeeds automatically, no roll required.
 
-Source: Player's Handbook p. 36</text>
+                    Source: Player's Handbook p. 56                </text>
             </feature>
         </autolevel>
     </class>
