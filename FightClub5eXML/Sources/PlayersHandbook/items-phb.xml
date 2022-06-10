@@ -86,14 +86,6 @@ Source: Player's Handbook p. 151</text>
 Source: Player's Handbook p. 153</text>
     </item>
     <item>
-        <name>Bagpipes</name>
-        <detail>Instrument</detail>
-        <type>G</type>
-        <weight>6</weight>
-        <value>30.0</value>
-        <text>Source: Player's Handbook p. 154</text>
-    </item>
-    <item>
         <name>Ball Bearings (bag of 1,000)</name>
         <detail>Range: 10 sq. ft.</detail>
         <type>G</type>
@@ -212,24 +204,11 @@ Source: Player's Handbook p. 152</text>
     </item>
     <item>
         <name>Burglar's Pack</name>
+        <detail>Equipment Pack</detail>
         <type>G</type>
         <weight>44.5</weight>
         <value>16.0</value>
-        <text>Includes:
-• a backpack
-• a Ball Bearings (Bag of 1,000)
-• 10 feet of string
-• a bell
-• 5 candle
-• a crowbar
-• a hammer
-• 10 piton
-• a hooded lantern
-• 2 Oil (flask)
-• 5 days Rations (1 day)
-• a tinderbox
-• a waterskin
-• Hempen Rope (50 feet)
+        <text>Includes: a backpack, a bag of 1000 ball bearings, 10 feet of string, a bell, 5 candles, a crowbar, a hammer, 10 pitons, a hooded lantern, 2 flasks of Oil, 5 days Rations (1 day), a tinderbox, a waterskin, Hempen Rope (50 feet)
 
 Source: Player's Handbook p. 151</text>
     </item>
@@ -519,21 +498,11 @@ Source: Player's Handbook p. 154</text>
     </item>
     <item>
         <name>Diplomat's Pack</name>
+        <detail>Equipment Pack</detail>
         <type>G</type>
         <weight>36</weight>
         <value>39.0</value>
-        <text>Includes:
-• a chest
-• 2 Map or Scroll Case
-• a set of fine clothes
-• a Ink (1-ounce bottle)
-• an ink pen
-• a lamp
-• 2 Oil (flask)
-• 5 Paper (one sheet)
-• a Perfume (vial)
-• sealing wax
-• soap
+        <text>Includes: a chest, 2 cases for maps and scrolls, a set of fine clothes, a bottle of ink, an ink pen, a lamp, 2 flasks of oil, 5 sheets of paper, a vial of perfume, sealing wax, soap
 
 Source: Player's Handbook p. 151</text>
     </item>
@@ -580,36 +549,12 @@ Source: Player's Handbook p. 157</text>
 Source: Player's Handbook p. 154</text>
     </item>
     <item>
-        <name>Drum</name>
-        <detail>Instrument</detail>
-        <type>G</type>
-        <weight>3</weight>
-        <value>6.0</value>
-        <text>Source: Player's Handbook p. 154</text>
-    </item>
-    <item>
-        <name>Dulcimer</name>
-        <detail>Instrument</detail>
-        <type>G</type>
-        <weight>10</weight>
-        <value>25.0</value>
-        <text>Source: Player's Handbook p. 154</text>
-    </item>
-    <item>
         <name>Dungeoneer's Pack</name>
+        <detail>Equipment Pack</detail>
         <type>G</type>
         <weight>61.5</weight>
         <value>12.0</value>
-        <text>Includes:
-• a backpack
-• a crowbar
-• a hammer
-• 10 piton
-• 10 torch
-• a tinderbox
-• 10 days of Rations (1 day)
-• a waterskin
-• Hempen Rope (50 feet)
+        <text>Includes a backpack, a crowbar, a hammer, 10 pitons, 10 torches, a tinderbox, 10 days of rations, and a waterskin. The pack also has 50 feet of hempen rope strapped to the side of it.
 
 Source: Player's Handbook p. 151</text>
     </item>
@@ -652,17 +597,11 @@ Source: Player's Handbook p. 151</text>
     </item>
     <item>
         <name>Entertainer's Pack</name>
+        <detail>Equipment Pack</detail>
         <type>G</type>
         <weight>38</weight>
         <value>40.0</value>
-        <text>Includes:
-• a backpack
-• a bedroll
-• 2 Costume Clothes
-• 5 candle
-• 5 days of Rations (1 day)
-• a waterskin
-• a disguise kit
+        <text>Includes a backpack, a bedroll, 2 costumes, 5 candles, 5 days of rations, a waterskin, and a disguise kit.
 
 Source: Player's Handbook p. 151</text>
     </item>
@@ -678,18 +617,11 @@ Source: Player's Handbook p. 157</text>
     </item>
     <item>
         <name>Explorer's Pack</name>
+        <detail>Equipment Pack</detail>
         <type>G</type>
         <weight>59</weight>
         <value>10.0</value>
-        <text>Includes:
-• a backpack
-• a bedroll
-• a mess kit
-• a tinderbox
-• 10 torch
-• 10 days of Rations (1 day)
-• a waterskin
-• Hempen Rope (50 feet)
+        <text>Includes a backpack, a bedroll, a mess kit, a tinderbox, 10 torches, 10 days of rations, and a waterskin. The pack also has 50 feet of hempen rope strapped to the side of it.
 
 Source: Player's Handbook p. 151</text>
     </item>
@@ -742,14 +674,6 @@ Source: Player's Handbook p. 153</text>
         <weight>1</weight>
         <value>0.02</value>
         <text>Source: Player's Handbook p. 157</text>
-    </item>
-    <item>
-        <name>Flute</name>
-        <detail>Instrument</detail>
-        <type>G</type>
-        <weight>1</weight>
-        <value>2.0</value>
-        <text>Source: Player's Handbook p. 154</text>
     </item>
     <item>
         <name>Forgery Kit</name>
@@ -883,14 +807,6 @@ Source: Player's Handbook p. 151</text>
         <text>A hooded lantern casts bright light in a 30-foot radius and dim light for an additional 30 feet. Once lit, it burns for 6 hours on a flask (1 pint) of oil. As an action, you can lower the hood, reducing the light to dim light in a 5-foot radius.
 
 Source: Player's Handbook p. 152</text>
-    </item>
-    <item>
-        <name>Horn</name>
-        <detail>Instrument</detail>
-        <type>G</type>
-        <weight>2</weight>
-        <value>3.0</value>
-        <text>Source: Player's Handbook p. 154</text>
     </item>
     <item>
         <name>Hourglass</name>
@@ -1039,22 +955,6 @@ Source: Player's Handbook p. 154</text>
 Source: Player's Handbook p. 152</text>
     </item>
     <item>
-        <name>Lute</name>
-        <detail>Instrument</detail>
-        <type>G</type>
-        <weight>2</weight>
-        <value>35.0</value>
-        <text>Source: Player's Handbook p. 154</text>
-    </item>
-    <item>
-        <name>Lyre</name>
-        <detail>Instrument</detail>
-        <type>G</type>
-        <weight>2</weight>
-        <value>30.0</value>
-        <text>Source: Player's Handbook p. 154</text>
-    </item>
-    <item>
         <name>Magnifying Glass</name>
         <type>G</type>
         <weight />
@@ -1194,14 +1094,6 @@ Source: Player's Handbook p. 152</text>
         <text>These special tools include the items needed to pursue a craft or trade. Proficiency with a set of artisan's tools lets you add your proficiency bonus to any ability checks you make using the tools in your craft. Each type of artisan's tools requires a separate proficiency.
 
 Source: Player's Handbook p. 154</text>
-    </item>
-    <item>
-        <name>Pan Flute</name>
-        <detail>Instrument</detail>
-        <type>G</type>
-        <weight>2</weight>
-        <value>12.0</value>
-        <text>Source: Player's Handbook p. 154</text>
     </item>
     <item>
         <name>Paper (one sheet)</name>
@@ -1350,20 +1242,11 @@ Source: Player's Handbook p. 153</text>
     </item>
     <item>
         <name>Priest's Pack</name>
+        <detail>Equipment Pack</detail>
         <type>G</type>
         <weight>24</weight>
         <value>19.0</value>
-        <text>Includes:
-• a backpack
-• a blanket
-• 10 candle
-• a tinderbox
-• an alms box
-• 2 blocks of incense
-• a censer
-• vestments
-• 2 days of Rations (1 day)
-• a waterskin.
+        <text>Includes a backpack, a blanket, 10 candles, a tinderbox, an alms box, 2 blocks of incense, a censer, vestments, 2 days of rations, and a waterskin.
 
 Source: Player's Handbook p. 151</text>
     </item>
@@ -1459,17 +1342,11 @@ Source: Player's Handbook p. 153</text>
     </item>
     <item>
         <name>Scholar's Pack</name>
+        <detail>Equipment Pack</detail>
         <type>G</type>
         <weight>10</weight>
         <value>40.0</value>
-        <text>Includes:
-• a backpack
-• a book of lore
-• a Ink (1-ounce bottle)
-• an ink pen
-• 10 Parchment (one sheet)
-• a little bag of sand
-• a small knife.
+        <text>Includes a backpack, a book of lore, a bottle of ink, an ink pen, 10 sheets of parchment, a little bag of sand, and a small knife.
 
 Source: Player's Handbook p. 151</text>
     </item>
@@ -1479,14 +1356,6 @@ Source: Player's Handbook p. 151</text>
         <weight />
         <value>0.5</value>
         <text>Source: Player's Handbook p. 150</text>
-    </item>
-    <item>
-        <name>Shawm</name>
-        <detail>Instrument</detail>
-        <type>G</type>
-        <weight>1</weight>
-        <value>2.0</value>
-        <text>Source: Player's Handbook p. 154</text>
     </item>
     <item>
         <name>Sheep</name>
@@ -1836,14 +1705,6 @@ Source: Player's Handbook p. 153</text>
 Source: Player's Handbook p. 153</text>
     </item>
     <item>
-        <name>Viol</name>
-        <detail>Instrument</detail>
-        <type>G</type>
-        <weight>1</weight>
-        <value>30.0</value>
-        <text>Source: Player's Handbook p. 154</text>
-    </item>
-    <item>
         <name>Wagon</name>
         <detail>Vehicle (land)</detail>
         <type>G</type>
@@ -1934,56 +1795,6 @@ Source: Player's Handbook p. 151</text>
 Source: Player's Handbook p. 151</text>
     </item>
     <item>
-        <name>Crystal</name>
-        <detail>Arcane Focus</detail>
-        <type>G</type>
-        <weight>1</weight>
-        <value>10.0</value>
-        <text>An arcane focus is designed to channel the power of arcane spells. A sorcerer, warlock, or wizard can use such an item as a spellcasting focus.
-
-Source: Player's Handbook p. 151</text>
-    </item>
-    <item>
-        <name>Orb</name>
-        <detail>Arcane Focus</detail>
-        <type>G</type>
-        <weight>3</weight>
-        <value>20.0</value>
-        <text>An arcane focus is designed to channel the power of arcane spells. A sorcerer, warlock, or wizard can use such an item as a spellcasting focus.
-
-Source: Player's Handbook p. 151</text>
-    </item>
-    <item>
-        <name>Rod</name>
-        <detail>Arcane Focus</detail>
-        <type>G</type>
-        <weight>1</weight>
-        <value>10.0</value>
-        <text>An arcane focus is designed to channel the power of arcane spells. A sorcerer, warlock, or wizard can use such an item as a spellcasting focus.
-
-Source: Player's Handbook p. 151</text>
-    </item>
-    <item>
-        <name>Staff</name>
-        <detail>Arcane Focus</detail>
-        <type>G</type>
-        <weight>4</weight>
-        <value>5.0</value>
-        <text>An arcane focus is designed to channel the power of arcane spells. A sorcerer, warlock, or wizard can use such an item as a spellcasting focus.
-
-Source: Player's Handbook p. 151</text>
-    </item>
-    <item>
-        <name>Wand</name>
-        <detail>Arcane Focus</detail>
-        <type>G</type>
-        <weight>1</weight>
-        <value>10.0</value>
-        <text>An arcane focus is designed to channel the power of arcane spells. A sorcerer, warlock, or wizard can use such an item as a spellcasting focus.
-
-Source: Player's Handbook p. 151</text>
-    </item>
-    <item>
         <name>Bagpipes</name>
         <detail>Musical Instrument</detail>
         <type>G</type>
@@ -1999,17 +1810,17 @@ Source: Player's Handbook p. 154</text>
         <type>G</type>
         <weight>3</weight>
         <value>6.0</value>
-        <text>If you have proficiency with a given musical instrument, you can add your proficiency bonus to any ability checks you make to play music with the instrument. A bard can use bagpipes as a spellcasting focus. Each type of musical instrument requires a separate proficiency.
+        <text>If you have proficiency with a given musical instrument, you can add your proficiency bonus to any ability checks you make to play music with the instrument. A bard can use a drum as a spellcasting focus. Each type of musical instrument requires a separate proficiency.
 
 Source: Player's Handbook p. 154</text>
     </item>
     <item>
-        <name>Dilcimer</name>
+        <name>Dulcimer</name>
         <detail>Musical Instrument</detail>
         <type>G</type>
         <weight>10</weight>
         <value>25.0</value>
-        <text>If you have proficiency with a given musical instrument, you can add your proficiency bonus to any ability checks you make to play music with the instrument. A bard can use bagpipes as a spellcasting focus. Each type of musical instrument requires a separate proficiency.
+        <text>If you have proficiency with a given musical instrument, you can add your proficiency bonus to any ability checks you make to play music with the instrument. A bard can use a dulcimer as a spellcasting focus. Each type of musical instrument requires a separate proficiency.
 
 Source: Player's Handbook p. 154</text>
     </item>
@@ -2019,7 +1830,7 @@ Source: Player's Handbook p. 154</text>
         <type>G</type>
         <weight>1</weight>
         <value>2.0</value>
-        <text>If you have proficiency with a given musical instrument, you can add your proficiency bonus to any ability checks you make to play music with the instrument. A bard can use bagpipes as a spellcasting focus. Each type of musical instrument requires a separate proficiency.
+        <text>If you have proficiency with a given musical instrument, you can add your proficiency bonus to any ability checks you make to play music with the instrument. A bard can use a flute as a spellcasting focus. Each type of musical instrument requires a separate proficiency.
 
 Source: Player's Handbook p. 154</text>
     </item>
@@ -2029,7 +1840,7 @@ Source: Player's Handbook p. 154</text>
         <type>G</type>
         <weight>2</weight>
         <value>35.0</value>
-        <text>If you have proficiency with a given musical instrument, you can add your proficiency bonus to any ability checks you make to play music with the instrument. A bard can use bagpipes as a spellcasting focus. Each type of musical instrument requires a separate proficiency.
+        <text>If you have proficiency with a given musical instrument, you can add your proficiency bonus to any ability checks you make to play music with the instrument. A bard can use a lute as a spellcasting focus. Each type of musical instrument requires a separate proficiency.
 
 Source: Player's Handbook p. 154</text>
     </item>
@@ -2039,7 +1850,7 @@ Source: Player's Handbook p. 154</text>
         <type>G</type>
         <weight>2</weight>
         <value>30.0</value>
-        <text>If you have proficiency with a given musical instrument, you can add your proficiency bonus to any ability checks you make to play music with the instrument. A bard can use bagpipes as a spellcasting focus. Each type of musical instrument requires a separate proficiency.
+        <text>If you have proficiency with a given musical instrument, you can add your proficiency bonus to any ability checks you make to play music with the instrument. A bard can use a lyre as a spellcasting focus. Each type of musical instrument requires a separate proficiency.
 
 Source: Player's Handbook p. 154</text>
     </item>
@@ -2049,7 +1860,7 @@ Source: Player's Handbook p. 154</text>
         <type>G</type>
         <weight>2</weight>
         <value>3.0</value>
-        <text>If you have proficiency with a given musical instrument, you can add your proficiency bonus to any ability checks you make to play music with the instrument. A bard can use bagpipes as a spellcasting focus. Each type of musical instrument requires a separate proficiency.
+        <text>If you have proficiency with a given musical instrument, you can add your proficiency bonus to any ability checks you make to play music with the instrument. A bard can use a horn as a spellcasting focus. Each type of musical instrument requires a separate proficiency.
 
 Source: Player's Handbook p. 154</text>
     </item>
@@ -2059,7 +1870,7 @@ Source: Player's Handbook p. 154</text>
         <type>G</type>
         <weight>2</weight>
         <value>12.0</value>
-        <text>If you have proficiency with a given musical instrument, you can add your proficiency bonus to any ability checks you make to play music with the instrument. A bard can use bagpipes as a spellcasting focus. Each type of musical instrument requires a separate proficiency.
+        <text>If you have proficiency with a given musical instrument, you can add your proficiency bonus to any ability checks you make to play music with the instrument. A bard can use pan flutes as a spellcasting focus. Each type of musical instrument requires a separate proficiency.
 
 Source: Player's Handbook p. 154</text>
     </item>
@@ -2069,7 +1880,7 @@ Source: Player's Handbook p. 154</text>
         <type>G</type>
         <weight>1</weight>
         <value>2.0</value>
-        <text>If you have proficiency with a given musical instrument, you can add your proficiency bonus to any ability checks you make to play music with the instrument. A bard can use bagpipes as a spellcasting focus. Each type of musical instrument requires a separate proficiency.
+        <text>If you have proficiency with a given musical instrument, you can add your proficiency bonus to any ability checks you make to play music with the instrument. A bard can use a shawm as a spellcasting focus. Each type of musical instrument requires a separate proficiency.
 
 Source: Player's Handbook p. 154</text>
     </item>
@@ -2079,8 +1890,58 @@ Source: Player's Handbook p. 154</text>
         <type>G</type>
         <weight>1</weight>
         <value>30.0</value>
-        <text>If you have proficiency with a given musical instrument, you can add your proficiency bonus to any ability checks you make to play music with the instrument. A bard can use bagpipes as a spellcasting focus. Each type of musical instrument requires a separate proficiency.
+        <text>If you have proficiency with a given musical instrument, you can add your proficiency bonus to any ability checks you make to play music with the instrument. A bard can use a voil as a spellcasting focus. Each type of musical instrument requires a separate proficiency.
 
 Source: Player's Handbook p. 154</text>
+    </item>
+    <item>
+        <name>Crystal</name>
+        <detail>Arcane Focus</detail>
+        <type>G</type>
+        <weight>1</weight>
+        <value>10.0</value>
+        <text>An arcane focus is a special item designed to channel the power of arcane spells. A sorcerer, warlock, or wizard can use such an item as a spellcasting focus.
+
+Source: Player's Handbook p. 151</text>
+    </item>
+    <item>
+        <name>Orb</name>
+        <detail>Arcane Focus</detail>
+        <type>G</type>
+        <weight>3</weight>
+        <value>20.0</value>
+        <text>An arcane focus is a special item designed to channel the power of arcane spells. A sorcerer, warlock, or wizard can use such an item as a spellcasting focus.
+
+Source: Player's Handbook p. 151</text>
+    </item>
+    <item>
+        <name>Rod</name>
+        <detail>Arcane Focus</detail>
+        <type>G</type>
+        <weight>2</weight>
+        <value>10.0</value>
+        <text>An arcane focus is a special item designed to channel the power of arcane spells. A sorcerer, warlock, or wizard can use such an item as a spellcasting focus.
+
+Source: Player's Handbook p. 151</text>
+    </item>
+    <item>
+        <name>Staff</name>
+        <detail>Arcane Focus</detail>
+        <type>ST</type>
+        <weight>4</weight>
+        <value>5.0</value>
+        <text>An arcane focus is a special item designed to channel the power of arcane spells. A sorcerer, warlock, or wizard can use such an item as a spellcasting focus.
+
+Source: Player's Handbook p. 151</text>
+    </item>
+    <item>
+        <name>Wand</name>
+        <detail>Arcane Focus</detail>
+        <type>G</type>
+        <weight>1</weight>
+        <value>10.0</value>
+        <text>An arcane focus is a special item designed to channel the power of arcane spells. A sorcerer, warlock, or wizard can use such an item as a spellcasting focus.
+
+Source: Player's Handbook p. 151</text>
     </item>
 </compendium>
