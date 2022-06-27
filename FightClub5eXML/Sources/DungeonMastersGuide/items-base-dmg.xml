@@ -333,7 +333,8 @@ Source: Dungeon Master's Guide p. 213</text>
     </item>
     <item>
         <name>+1 Dart</name>
-        <detail>major, simple Weapon, Ranged Weapon</detail>
+        <detail>Uncommon</detail>
+        <magic>YES</magic>
         <type>R</type>
         <weight>0.25</weight>
         <property>F,T</property>
@@ -558,7 +559,8 @@ Source: Dungeon Master's Guide p. 213</text>
     </item>
     <item>
         <name>+1 Light Crossbow</name>
-        <detail>major, simple Weapon, Ranged Weapon</detail>
+        <detail>Uncommon</detail>
+        <magic>YES</magic>
         <type>R</type>
         <weight>5</weight>
         <property>A,LD,2H</property>
@@ -748,7 +750,8 @@ Source: Dungeon Master's Guide p. 213</text>
     </item>
     <item>
         <name>+1 Shortbow</name>
-        <detail>major, simple Weapon, Ranged Weapon</detail>
+        <detail>Uncommon</detail>
+        <magic>YES</magic>
         <type>R</type>
         <weight>2</weight>
         <property>A,2H</property>
@@ -799,7 +802,8 @@ Source: Dungeon Master's Guide p. 213</text>
     </item>
     <item>
         <name>+1 Sling</name>
-        <detail>major, simple Weapon, Ranged Weapon</detail>
+        <detail>Uncommon</detail>
+        <magic>YES</magic>
         <type>R</type>
         <weight></weight>
         <property>A</property>
