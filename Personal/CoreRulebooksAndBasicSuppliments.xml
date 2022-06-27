@@ -25,6 +25,9 @@
     <doc href="../FightClub5eXML/Sources/DungeonMastersGuide/bestiary-dmg.xml" />
     <doc href="../FightClub5eXML/Sources/DungeonMastersGuide/items-dmg.xml" />
     <doc href="../FightClub5eXML/Sources/DungeonMastersGuide/items-base-dmg.xml" />
+    <doc href="../FightClub5eXML/Sources/DungeonMastersGuide/class-cleric-dmg.xml" />
+    <doc href="../FightClub5eXML/Sources/DungeonMastersGuide/class-paladin-dmg.xml" />
+    <doc href="../FightClub5eXML/Sources/DungeonMastersGuide/spells-phb+dmg.xml" />
     <!-- Monster Manual -->
     <doc href="../FightClub5eXML/Sources/MonsterManual/bestiary-mm.xml" />
     <doc href="../FightClub5eXML/Sources/MonsterManual/items-mm.xml" />
